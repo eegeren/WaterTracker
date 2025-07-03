@@ -13,7 +13,7 @@ WaterReminder is an iOS application that helps users stay hydrated by sending re
 
 ## 🖼️ Screenshots
 
-<img src="Screenshots/inapp.png" width="200" />
+<img src="screenshots/inapp.png" width="200" />
 
 ## 🔧 Technologies Used
 
